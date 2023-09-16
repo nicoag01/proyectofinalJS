@@ -1,3 +1,4 @@
+
 function mostrarResultados() {
     let mostrarNombres = document.getElementById("mostrar-nombres")
     let mostrarEdades = document.getElementById("mostrar-edades")
